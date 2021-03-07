@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Jarvis, a Discord bot.
+- 🌱 I’m currently learning c#
+- 💬 Ask me about anything
+- 📫 How to reach me: Discord: S̴̈́͛ĩ̴̒l̴̠̏ë̴͂n̶̅͋t̵͆̔#5960
+- 😄 Pronouns: He/Him
+
 <!--
 **SilentUK90/SilentUK90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

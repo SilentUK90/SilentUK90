@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Jarvis, a Discord bot.
 - 🌱 I’m currently learning C#
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord: S̴̈́͛ĩ̴̒l̴̠̏ë̴͂n̶̅͋t̵͆̔#5960
+- 📫 How to reach me: Discord: S̴̈́͛ĩ̴̒l̴̠̏ë̴͂n̶̅͋t̵͆̔#0001
 - 😄 Pronouns: He/Him
 
 <!--

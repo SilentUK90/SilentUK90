@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Jarvis, a Discord bot.
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on c# and Game Dev.
+- 🌱 I’m currently learning C# and GDScript
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord: S̴̈́͛ĩ̴̒l̴̠̏ë̴͂n̶̅͋t̵͆̔#0001
+- 📫 How to reach me: Discord: silentuk
 - 😄 Pronouns: He/Him
 
 <!--

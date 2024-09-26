@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C# and Game Dev.
-- 🌱 I’m currently learning C# and GDScript
+- 🔭 I’m currently working on C#
+- 🌱 I’m currently learning C#
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord: silentuk
 - 😄 Pronouns: He/Him
